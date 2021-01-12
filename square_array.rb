@@ -5,6 +5,6 @@ def square_array(array)
     new_array << j
 
   end
-  puts "#{new_array}"
+  #puts "#{new_array}"
 end
 square_array(array)
