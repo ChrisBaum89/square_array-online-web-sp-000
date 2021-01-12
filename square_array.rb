@@ -6,6 +6,6 @@ def square_array(array)
     new_array << j
     #puts "#{new_array}"
   end
-  #puts "#{new_array}"
+  new_array
 end
 #square_array(array)
