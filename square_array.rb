@@ -4,7 +4,7 @@ def square_array(array)
     j = i*i
     #puts "#{i}"
     new_array = Array.new
-    new_array = j
+    new_array << j
     puts "#{new_array}"
   end
 end
