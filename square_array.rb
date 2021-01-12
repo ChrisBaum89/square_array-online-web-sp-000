@@ -1,4 +1,4 @@
-array = [1,2,3]
+#array = [1,2,3]
 def square_array(array)
   new_array = Array.new
   array.each do |i|
@@ -8,4 +8,4 @@ def square_array(array)
   end
   #puts "#{new_array}"
 end
-square_array(array)
+#square_array(array)
