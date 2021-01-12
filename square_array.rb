@@ -5,7 +5,8 @@ def square_array(array)
     #puts "#{i}"
     new_array = Array.new
     new_array << j
-    puts "#{new_array}"
+    #puts "#{new_array}"
   end
+  puts "#{new_array}"
 end
 square_array(array)
