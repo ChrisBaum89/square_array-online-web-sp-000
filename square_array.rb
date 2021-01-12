@@ -1,4 +1,4 @@
-#array = [1,2,3]
+
 def square_array(array)
   new_array = Array.new #define new array
   array.each do |i|
